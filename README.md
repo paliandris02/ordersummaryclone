@@ -1,2 +1,0 @@
-# ordersummary
-Order summary component
